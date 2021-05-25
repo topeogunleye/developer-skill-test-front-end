@@ -1,4 +1,5 @@
-# developer-skill-test-front-end
+# Labzone - FE Developer Skill Test
+
 A simple test app to ascertain developer skill-level.
 
 The challenge is to create a basic app using HTML, CSS, JavasScript - React.js and the Flickr API.

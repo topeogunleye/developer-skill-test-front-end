@@ -8,7 +8,7 @@ The app should demonstate your ability to set up a React App, load in some photo
 
 Bonus points will be awarded for a working search box, loading more photos on scroll and any other visual improvements or animations that you would like to add.
 
-Please clone this repository and create a branch and then push the content to the remote when you are done.
+Please fork this repository and create pull request when you are done.
 
 You can register for an API key [here](https://www.flickr.com/services/apps/create/).
 

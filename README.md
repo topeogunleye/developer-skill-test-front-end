@@ -16,6 +16,6 @@ More documentation on the API can be found on [this link](https://www.flickr.com
 
 Pixel perfect mockup to design is a real focus for us at Labzone, the mockup for the test is as follows:
 
-![](https://dz2cdn1.dzone.com/storage/temp/13996235-03-floating_layout.png?raw=true)
+![](https://photos.app.goo.gl/BQkRTzJTRRQVDR5k6?raw=true)
 
 ### Good luck !

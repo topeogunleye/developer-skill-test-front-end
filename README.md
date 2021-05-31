@@ -14,4 +14,8 @@ You can register for an API key [here](https://www.flickr.com/services/apps/crea
 
 More documentation on the API can be found on [this link](https://www.flickr.com/services/api/).
 
+Pixel perfect mockup to design is a real focus for us at Labzone, the mockup for the test is as follows:
+
+![](https://images.app.goo.gl/fpJHp1Yg4XKst9Bp9?raw=true)
+
 ### Good luck !

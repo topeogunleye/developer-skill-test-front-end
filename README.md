@@ -10,7 +10,7 @@ Bonus points will be awarded for a working search box, loading more photos on sc
 
 Please fork this repository and create pull request when you are done.
 
-If you do decide to use other Flickr API feeds to show us what you can do, be aware that some endpoints do require an API key. You can register for an API key [here](https://www.flickr.com/services/apps/create/).
+If you do wish to use other Flickr API feeds, be aware that some endpoints do require an API key. You can register for an API key [here](https://www.flickr.com/services/apps/create/).
 
 More documentation on the API can be found on [this link](https://www.flickr.com/services/api/).
 
